@@ -1,0 +1,8 @@
+.containerstyle {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    min-width: none;
+    margin: 0 auto;
+  }
+  
